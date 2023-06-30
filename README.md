@@ -67,12 +67,12 @@ This directory contains your Vuex store files. Creating a file in this directory
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
 
-## init  
+## init
 
 % npx create-nuxt-app strawberrymilk
 
 create-nuxt-app v5.0.0
-✨  Generating Nuxt.js project in strawberrymilk
+✨ Generating Nuxt.js project in strawberrymilk
 ? Project name: strawberrymilk
 ? Programming language: TypeScript
 ? Package manager: Yarn

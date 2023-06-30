@@ -45,4 +45,9 @@ export default {
   build: {
     transpile: [/^element-ui/],
   },
+
+  // 404
+  generate: {
+    fallback: true,
+  },
 }
