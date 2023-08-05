@@ -3,13 +3,15 @@ export default {
   head: {
     title: 'strawberrymilk',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'ja',
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
+      { 'http-equiv': 'Pragma', content: 'no-cache"' },
+      { 'http-equiv': 'Cache-Control', content: 'no-cache"' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
