@@ -20,6 +20,15 @@
           </a>
         </p>
         <p>
+          <a
+            ref="noreferrer noopener"
+            target="_blank"
+            href="https://seventeen.strawberrymilk.dev"
+          >
+            17才診断メーカー
+          </a>
+        </p>
+        <p>
           <a href="/strawberrymilk"> いろんないちごみるく </a>
         </p>
         <el-button @click="animationReplay">アニメーションを再生</el-button>
