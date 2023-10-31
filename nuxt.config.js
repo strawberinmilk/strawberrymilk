@@ -52,4 +52,8 @@ export default {
   generate: {
     fallback: true,
   },
+
+  // SSG
+  ssr: false,
+  target:'static',
 }
