@@ -55,5 +55,5 @@ export default {
 
   // SSG
   ssr: false,
-  target:'static',
+  target: 'static',
 }
