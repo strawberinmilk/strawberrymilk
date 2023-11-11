@@ -20,6 +20,9 @@
           </a>
         </p>
         <p>
+          <a href="/infrastructure">インフラについて語るページ </a>
+        </p>
+        <p>
           <a
             ref="noreferrer noopener"
             target="_blank"
